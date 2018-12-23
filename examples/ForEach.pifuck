@@ -1,0 +1,28 @@
+// Foreach with a BigDecimal
+3.1 +BigNummer+ 3.1 +10+ 3.
+3.141592653 +BigNummer+ +TempVar+ 3.
+3.
+    +TempVar+ 3.
+3.14159265 3.
+// Donee
++x+ 3.
+// Foreach with chars
+3.1 +LongString+ 3.1 +This+ 3.
+3.141592653 +LongString+ +SingleChar+ 3.
+    +SingleChar+ 3.
+3.14159265 3.
+3.
+3.
+3.
+3.
+3.
+3.
+3.
+3.
+3.
+// NESTED FOREACH
+3.141592653 +BigNummer+ +i+ 3.
+    3.141592653 +i+ +j+ 3.
+        +j+ 3.
+    3.14159265 3.
+3.14159265 3.

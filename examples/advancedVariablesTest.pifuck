@@ -1,0 +1,26 @@
+// Expect 13
+3.1 +basicNumber+ 3.1 +13+ 3.
++basicNumber+ 3.
+// Expect 13
+3.1 +anotherNumber+ 3.1 +basicNumber+ 3.
++anotherNumber+ 3.
+// Expect 39
++basicNumber+ 3.141592 +3+ 3.
+// Expect 39
+3.1 +anotherNumber+ 3.1 +basicNumber+ 3.141592 +3+ 3.
++anotherNumber+ 3.
+// Expect 15
+3.1 +sumTest+ 3.1 +9+ 3.1415 +6+ 3.
++sumTest+ 3.
+3.
+// Expect abcdef
+3.1 +text+ 3.1 +abc+ 3.1415 +def+ 3.
++text+ 3.
+3.
+// Expect -12.1
+3.1 +testingMinus+ 3.1 +-9+ 3.
+3.1 +testingMinus+ 3.1 +testingMinus+ 3.14159 +3.10+ 3.
++testingMinus+ 3.
+// Expect 90.0
+3.
++30+ 3.141592 +3.0+ 3.

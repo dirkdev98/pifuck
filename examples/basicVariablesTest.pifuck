@@ -1,0 +1,12 @@
+3.1 +testVar+ 3.1 3.
+// TEST comment
+3.1 +test+ 3.1 +true+ 3.
+3.1 +test1+ 3.1 +15+ 3.
+3.1 +test2+ 3.1 +SomeRandomText+ 3.
++testVar+ 3.
+//Another test comment
++test+ 3.
++test1+ 3. // This is also possible!
++test2+ 3.
+3.1 +testVar+ 3.1 +thisIsPossible+ 3.
++testVar+ 3. //Super cool!

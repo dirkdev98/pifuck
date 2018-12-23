@@ -1,0 +1,5 @@
+-- +./examples/basicVariablesTest.pifuck+ 3.
+// Expected output:
+// Output from basicVariablesTest
+// test1 will print 15
++test1+ 3.

@@ -1,0 +1,16 @@
+// Computes '11' in an expensive fashion
+// Result is available in the 'get11Result' variable
+** +get11+ 3.
+3.
+    3.1 +value1+ 3.1 +10.0+ 3.
+    3.1 +value2+ 3.1 +1.0+ 3.
+    3.141 +value1+ 3.1415926535897 +value2+ +value2+ 3.1415 +2.0+ 3.
+    3.
+        +value2+ 3.
+    3.
+    3.14159265 3.
+    3.1 +get11Result+ 3.1 +value2+ 3.
+3.
+3.14159265 3.
+3.1415926535 +get11+ 3.
++get11Result+ 3.
